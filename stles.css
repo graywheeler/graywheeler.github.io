@@ -1,15 +1,7 @@
-
-h1 {
-    color: white;
-    background-color: blue;
+img {
+    width: 200px;
 }
 body {
-    font-size: 14px;
-    color: green;
-    background-image: url(body {https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj5v8mY-bfWAhUjwVQKHZEID40QjRwIBw&url=http%3A%2F%2Fpopkey.co%2Fm%2Fe94eo-white%2Bguy%2Bblinking-confused-huh-what&psig=AFQjCNGrwXJUCWEPu2DLLBM9QXL2YOo0Zw&ust=1506140613960189
-}
-
-}
-p {
-    text-align: center
+    text-align: center;
+    font-family: "fantasy";
 }

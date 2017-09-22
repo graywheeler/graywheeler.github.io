@@ -1,11 +1,8 @@
 img {
-    width: 200px;
+    width: 100px;
 }
 body {
-   text-align: center
-   ;
-   font-size: x-large;
-   font-family: inherit;
-    text-transform: capitalize
-    <script src="https://speedfont.com/api?key=qZclOcRkqefx"></script>
-   }
+    text-align: center;
+    font-family: "Arial";
+    <script src="https://speedfont.com/api?key=qZclOcRkqefx"></script>;
+}

@@ -1,8 +1,11 @@
 img {
     width: 100px;
 }
+h1 {
+    color: white;
+    background-color: blue;
+}
 body {
-    text-align: center;
-    font-family: "Arial";
-    <script src="https://speedfont.com/api?key=qZclOcRkqefx"></script>;
+    font-size: 14px;
+    color: navy;
 }

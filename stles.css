@@ -5,7 +5,7 @@ body {
     text-align: center;
 }
 body {
-     font-family: "arial";
+     font-family: "Arial";
 }
 body {
     background-color: rgb(yellow
@@ -13,3 +13,8 @@ body {
 p {
     font-family: "Courier New";
 }
+
+body {
+    background-color="drkrainbow.gif" bgcolor="#333333"
+}
+font-family: habibi

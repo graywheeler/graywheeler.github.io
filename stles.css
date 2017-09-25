@@ -2,17 +2,23 @@ img {
     width: 90px;
 }
 body {
+    background-color: "drkrainbow.gif" bgcolor="#333333"
     text-align: center;
 }
-body {
-    background-color: rgb(yellow
-}
 p {
-    font-family: "Courier New";
+    font-family: "Comic sans";
 }
-
-body {
-    background-color="drkrainbow.gif" bgcolor="#333333"
+.box{
+	width:100px;
+	height:100px;
 }
-font-family: habibi
-s
+ 
+.red{
+	background:#f00;
+}
+.green{
+	background:#0f0;
+}
+.blue{
+	background:#00f;
+}

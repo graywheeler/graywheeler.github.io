@@ -5,10 +5,12 @@
 </head>
   <body>
     <center>
+      <h1>hello folks! welcome to my site</h1>
       <h1><b> <i> ! ! ! ! ! click here to go to google ! ! ! ! ! </b> </i></h1>
     </center>
     <center> 
 <a href="https://www.google.com">
+<img src="https://patrickcoombe.com/wp-content/uploads/2015/09/new-google-logo-2015.png"></img>
 </a>
     </center>
   </body>

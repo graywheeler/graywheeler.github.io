@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Pre Google </title>
+   <title> pregoogle </title>
+  
 </head>
   <body>
+    <left>
+      <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn">More Browsers</button>
+      <div id="myDropdown" class="dropdown-content">
+          <a href="1">bing</a>
+          <a href="2">yahoo</a>
+          <a href="3">safari
+          <a href="https://www.safari.com"> </a> </a>
+        </div>
+        </div>
+    </left>
     <center>
-      <h1>hello folks! welcome to my site</h1>
+      <h1></h1>
       <h1><b> <i> ! ! ! ! ! click here to go to google ! ! ! ! ! </b> </i></h1>
     </center>
     <center> 
